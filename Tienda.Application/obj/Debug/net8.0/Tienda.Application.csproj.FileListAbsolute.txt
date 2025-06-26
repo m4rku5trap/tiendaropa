@@ -1,0 +1,17 @@
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Application.deps.json
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Application.dll
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Application.pdb
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Domain.dll
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Infrastructure.dll
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Domain.pdb
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\bin\Debug\net8.0\Tienda.Infrastructure.pdb
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.csproj.AssemblyReference.cache
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.AssemblyInfoInputs.cache
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.AssemblyInfo.cs
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.A.8EBB5F9B.Up2Date
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.dll
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\refint\Tienda.Application.dll
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\Tienda.Application.pdb
+C:\Users\Marc\source\repos\TiendaRopa\Tienda.Application\obj\Debug\net8.0\ref\Tienda.Application.dll
